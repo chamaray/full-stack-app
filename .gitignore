@@ -6,4 +6,4 @@ frontend/node_modules/
 *.env
 
 # Build folders
-frontend/build/
+frontend/build/node_modules/
